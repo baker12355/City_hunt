@@ -4,4 +4,4 @@
 
 ![image](https://github.com/baker12355/Searching_Game/blob/master/gif/PyImageSearch-PhotoBooth-2018_7_1-%E4%B8%8B%E5%8D%88-02_55_05.gif)
 
-這個專案是於課堂中共同開發的遊戲專案。想法與共同開發人員:邱宇鴻、林政毅、邱健。技術開發:陳凱祥。
+> 這個專案是於課堂中共同開發的遊戲專案。想法與共同開發人員:邱宇鴻、林政毅、邱健。技術開發:陳凱祥。
